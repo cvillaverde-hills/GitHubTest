@@ -10,7 +10,8 @@ namespace GitHubTest
             string name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
             Console.WriteLine("Have a good day!");
-            Console.WriteLine(); // with comments
+            Console.WriteLine();  
+            Console.WriteLine();
 
         }
     }
