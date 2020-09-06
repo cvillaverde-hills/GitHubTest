@@ -9,6 +9,8 @@ namespace GitHubTest
             Console.WriteLine("What's your name?");
             string name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
+            Console.WriteLine("Have a good day!");
+
         }
     }
 }
